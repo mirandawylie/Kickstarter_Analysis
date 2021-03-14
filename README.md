@@ -4,7 +4,7 @@
 Our friend Louise wants to know the campaign outcomes of plays based on each play's launch date and funding goals. Using the Kickstarter dataset we were able to create charts to easily understand a play's campaign outcomes based on their launch dates and their funding goals.
 
 ## Analysis and Challenges
-To examine theater outcomes by launch date the successful, failed, and canceled plays are charted by months of the year. To examine theater outcomes by goals the percentage successful, failed, and canceled plays are charted by a breakdown by twelve dollar-amount ranges.
+To examine theater outcomes by launch date the successful, failed, and canceled plays are charted by months of the year. To examine theater outcomes by goals the percentage successful, failed, and canceled plays are charted by a breakdown of dollar-amount ranges.
 
 Except for that no plays were canceled, no challenges are present.
 
