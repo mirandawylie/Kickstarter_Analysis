@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter
 
 ## Overview of Project
 Our friend Louise wants to know the campaign outcomes of plays based on each play's launch date and funding goals. Using the Kickstarter dataset we were able to create charts to easily understand a play's campaign outcomes based on their launch dates and their funding goals.
