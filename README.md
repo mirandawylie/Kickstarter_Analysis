@@ -6,6 +6,9 @@ Our friend Louise wants to know the campaign outcomes of plays based on each pla
 ## Analysis and Challenges
 To examine theater outcomes by launch date the successful, failed, and canceled plays are charted by months of the year. To examine theater outcomes by goals the percentage successful, failed, and canceled plays are charted by a breakdown of dollar-amount ranges.
 
+![Outcomes_vs_Goals.png}(url pasted here)
+![Theater_Outcomes_vs_Launch.png}(url pasted here)
+
 Except for that no plays were canceled, no challenges are present.
 
 ## Results
