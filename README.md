@@ -20,9 +20,7 @@ May, June, and July had the highest successful outcomes based on launch date. Of
 Goals of less than $1000 have the highest percent successful rate. Goals in the range of $45,000 to $49,999 had a 100% failed rate.
 
 ### Limitations of this dataset?
-While we know the category and subcategory the genre is not easily identifiable. While one can glean the genre of the entertainment by the title and the blurb, a genre filter is not readily available. If Louise wants to look further into what make the successful campaigns successful, I would recommend looking at the genre of the to understand the topics backers are most interested in.
+While we know the category and subcategory the genre is not easily identifiable. While one can glean the genre of the entertainment by the title and the blurb, a genre filter is not readily available. If Louise wants to look further into what make the successful campaigns successful, I would recommend looking into the genre of each campaign to understand the topics backers are most interested in.
 
 ### Other possible tables and/or graphs to create?
 To further examine outcomes with the highest success rate, we could chart the launch date in comparison with the deadline date. This charting would allow Louise to know the best weeks in the month to launch campaigns.
-
-
